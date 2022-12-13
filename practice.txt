@@ -1,0 +1,50 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>affah nabilah</title>
+<link rel="shortcut icon" href="cat.jpg">
+<link rel="stylesheet" href="style.css">
+</head>
+<style>
+h3 { 
+     border: 2px solid 
+	 purple;
+     color: #330033; 
+     font-family: century;
+	 font-size: 125%;
+	 }
+p  { 
+     padding: 2px;
+     color: black;
+     font-family: harmonia sans font;
+     font-size: 125%
+}	 
+	 </style>
+<body style="background-color:#66ffcc">
+<a href="index.html">home</a>
+<a href="https://affahnabilah.wordpress.com/">websiteku</a>
+<a href="https://sites.google.com/view/affahsites/beranda"> google site </a>
+<font size="4" color=#330000 face="arial narrow">
+<hr width="1500"></hr>
+<center><img src="img.jpg" alt="img" height="300px" width="300"></center>
+
+<h3 align="center" Style="background-color:#00ff33">Biodata</h3>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;">Nama : Affah nabilah</p>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;">Tempat Tanggal Lahir : Pasuruan,18-09-2000</p>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;">alamat : Wonorejo-Pauruan</p>
+
+<h3 align="center" Style="background-color:#3399ff">Riwayat Pendidikan</h3>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;"> TK : al-alawiyah</p>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;"> MI : Nurul Huda 1</p>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;"> MTS: MTSN wonorejo</p>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;"> SMA: SMA Al-Aziz Bangil</p>
+
+<h3 align="center" Style="background-color:#9966ff">Status</h3>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;">Sebagai mahasiswa di Universitas Yudharta Pasuruan</p>
+
+
+<h3 align="center" Style="background-color:#B0D0E7">Program Study</h3>
+<p align="center" Style="font-family:Courier new;" style="font-size:125%;" Style="background-color:#C4faf8">Teknik informatika</p>
+</font>
+</body>
+</html>

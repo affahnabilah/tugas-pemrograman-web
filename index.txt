@@ -1,0 +1,28 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta charset="utf-8">
+  <meta name="Viewport" content="width=device-width, initial-scale=1">
+  <title>My Webside</title>
+  <link rel="shortcut icon" href="cat.jpg">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+   <div class="main">
+      <ul>
+	    <li><a href="index.html">Home</a></li>
+	    <li><a href="practice.html">profil</a></li>
+      </ul>
+	  </div>
+	  <div class="title">
+	  <center><h1>WELCOME TO MY WEBSITE</h1></center>
+	  <center><h3>"Kebanggaan kita yang terbesar adalah bukan tidak pernah gagal,tetapi bangkit kembali setiap kali kita jatuh"</h3></center>
+	  <center><h3>(confusius)</h3></center>
+</header>
+	</body>
+    <html>
+    
+	  
+	 
+	 
